@@ -69,7 +69,7 @@ class LissajousWindow(qt.QMainWindow):
 
     def test_button_click_handler(self):
         """
-        TODO
+        Функция для генерации и отрисовки фигур Лиссажу для теста.
         """
         number_of_tests = 5
         folder_name = "test_folder"
