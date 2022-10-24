@@ -34,7 +34,7 @@ class LissajousGenerator:
         
     def get_random_figure(self):
         """
-        TODO
+        Функция создает фигуру Лиссажу со случайными значениями частот и случайным разрешением.
         """
         freq_x = np.random.randint(1, 10)
         freq_y = np.random.randint(1, 10)
